@@ -64,5 +64,3 @@ if __name__ == "__main__":
     main()      
 
 
-# customer1 = BankApplication("Johnspiel", "Nairobi", 12345678)
-# print(customer1)
